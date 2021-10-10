@@ -1,0 +1,33 @@
+body{
+    font-family: cursive;
+    background-color: rgb(253, 233, 151);
+}
+.header_div{
+    background: white;
+    color:tomato;
+}
+.header_div p{
+    font-family:'Open Sans Condensed', sans-serif;
+    color: teal;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px; 
+}
+.copy_right_footer{
+    position:fixed;
+    color: turquoise;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px coral;
+}
